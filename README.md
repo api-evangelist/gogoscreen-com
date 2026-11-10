@@ -1,4 +1,4 @@
-# gogoscreen-com
+# GogoScreen
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,135 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 gogoscreen-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gogoscreen.com/
+
+**Areas:** demo video · web app · API · developers
+
+## GogoScreen on APIs.io
+
+Everything profiled for GogoScreen is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gogoscreen-com/](https://apis.io/providers/gogoscreen-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [GogoScreen Account API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-account-api/) — Who the credential belongs to, and what the account is allowed to do.
+- [GogoScreen Assistant API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-assistant-api/) — Operations under `assistant`.
+- [GogoScreen Catalog API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-catalog-api/) — The fixed lists a caller chooses from: plans, voices, render options and marketing templates.
+- [GogoScreen Keys API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-keys-api/) — API keys — creating, listing, rotating and revoking them. Dashboard credentials only: a key may not manage keys.
+- [GogoScreen Marketing API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-marketing-api/) — Marketing videos generated from a scan of a website: sources, projects, revisions, generations and exports.
+- [GogoScreen Renders API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-renders-api/) — Product walkthroughs recorded from a live website, and the seconds they spend.
+- [GogoScreen Storyboards API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-storyboards-api/) — The plan for a walkthrough, made and reviewed before any video is rendered.
+- [GogoScreen Templates API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-templates-api/) — Saved render settings, reusable across walkthroughs.
+- [GogoScreen Usage API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-usage-api/) — What this account has called, and how much of it.
+- [GogoScreen Voices API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-voices-api/) — Hearing a narration voice before spending seconds on one.
+- [GogoScreen Wallet API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-wallet-api/) — The account's seconds: the balance, and every movement of it.
+- [GogoScreen Webhooks API](https://apis.io/apis/gogoscreen-com/gogoscreen-com-webhooks-api/) — Where this account's job events are delivered, and what happened to each delivery.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Gogoscreen Com Webhooks](https://apis.io/asyncapis/gogoscreen-com/gogoscreen-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [GogoScreen Agentic Access](https://apis.io/agentic-access/gogoscreen-com/gogoscreen-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gogoscreen Com Context](https://apis.io/jsonld/gogoscreen-com/gogoscreen-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [GogoScreen API Rules](https://apis.io/rules/gogoscreen-com/gogoscreen-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [GogoScreen Authentication](https://apis.io/security/gogoscreen-com/gogoscreen-com-authentication/)
+- [GogoScreen Domain Security](https://apis.io/security/gogoscreen-com/gogoscreen-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [GogoScreen Plans Pricing](https://apis.io/plans/gogoscreen-com/gogoscreen-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gogoscreen.com/)
+- [Documentation](https://gogoscreen.com/docs)
+- [Getting started](https://gogoscreen.com/docs#quickstart)
+- [API reference](https://gogoscreen.com/docs/api)
+- [Pricing](https://gogoscreen.com/pricing)
+- [Support](https://gogoscreen.com/support)
+- [Changelog](https://gogoscreen.com/docs/changelog)
+- [Terms of service](https://gogoscreen.com/terms)
+- [Privacy policy](https://gogoscreen.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 58.4** — strong · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 61.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 60.0 |
+
+**Agent readiness 52.5** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gogoscreen-com/](https://apis.io/providers/gogoscreen-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GogoScreen: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gogoscreen-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
